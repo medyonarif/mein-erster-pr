@@ -6,7 +6,7 @@ Ein kleines Übungsprojekt, um den kompletten Git- und GitHub-Workflow einmal sa
 
 Das Projekt enthält ein winziges Python-Skript, das eine Begrüßung ausgibt.
 
-## Installtion
+## Installation
 
 Es werden keine externen Abhängigkeiten benötigt — Python 3 genügt.
 
